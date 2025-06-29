@@ -2,7 +2,7 @@
 
 A small Python module for initializing a ClickHouse client based on environment-specific credentials.
 
-## 🔧 Features
+## Features
 
 - Supports `lab`, `development`, and `production` environments
 - Loads credentials from `.env` or environment variables
