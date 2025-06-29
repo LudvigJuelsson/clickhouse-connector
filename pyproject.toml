@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "clickhouse-connect>=0.8.18",
+    "dotenv>=0.9.9",
+    "pytest>=8.4.1",
 ]
